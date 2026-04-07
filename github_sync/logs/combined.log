@@ -1,0 +1,257 @@
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-03T14:33:47.975Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-03T14:33:48.039Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-03T14:33:48.000Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-03T14:33:48.052Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-03T14:33:48.126Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-03T14:33:48.134Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-03T14:33:48.136Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-03T14:33:48.137Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-03T14:33:48.138Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-03T14:33:48.138Z"}
+{"level":"error","message":"V7.2-Balanced启动失败: Invalid or unexpected token","timestamp":"2026-04-03T14:33:48.139Z"}
+{"level":"info","message":"已降级到V6.0五层系统","timestamp":"2026-04-03T14:33:48.151Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-03T14:33:48.200Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-03T14:33:48.207Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-03T14:33:48.208Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-03T14:33:48.209Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-03T14:33:48.210Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-03T14:33:48.211Z"}
+{"level":"error","message":"V7.2-Balanced启动失败: Invalid or unexpected token","timestamp":"2026-04-03T14:33:48.213Z"}
+{"level":"info","message":"已降级到V6.0五层系统","timestamp":"2026-04-03T14:33:48.228Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:33:50.203Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:33:50.203Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:33:50.212Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:33:50.213Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:33:51.206Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:33:51.213Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:34:00.263Z","uptime":"12s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:34:00.263Z","uptime":"12s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:19.324Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:19.324Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:34:30.358Z","uptime":"42s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:34:30.358Z","uptime":"42s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.419Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.419Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.420Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.420Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.421Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.419Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.422Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:49.422Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:52.429Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:34:52.530Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:35:00.460Z","uptime":"72s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:35:00.561Z","uptime":"72s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:19.529Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:19.630Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:35:30.568Z","uptime":"102s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:35:30.668Z","uptime":"102s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.634Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.634Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.635Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.635Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.734Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.735Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.735Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:49.737Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:50.637Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:50.738Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:52.643Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:35:52.744Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:36:00.670Z","uptime":"132s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:36:00.771Z","uptime":"132s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:19.740Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:19.841Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:36:30.777Z","uptime":"162s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:36:30.878Z","uptime":"163s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.848Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.849Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.849Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.849Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.949Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.949Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.949Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:49.950Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:52.859Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:36:52.959Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:37:00.886Z","uptime":"193s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:37:00.987Z","uptime":"193s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:20.055Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:20.055Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:37:30.089Z","uptime":"222s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:37:30.089Z","uptime":"222s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.152Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.152Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.152Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.152Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.153Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.152Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.152Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:50.153Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:51.154Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:51.154Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:53.261Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:37:53.261Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:38:00.284Z","uptime":"252s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:38:00.284Z","uptime":"252s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:19.349Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:19.350Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:38:30.389Z","uptime":"282s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:38:30.389Z","uptime":"282s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.553Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.553Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.553Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.553Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.554Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.554Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.554Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.554Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.554Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:49.555Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:52.562Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:52.562Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:52.563Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:52.563Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:54.570Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:38:54.570Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:39:00.593Z","uptime":"312s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:39:00.694Z","uptime":"312s"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-03T14:39:19.645Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-03T14:39:19.702Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-03T14:39:19.700Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-03T14:39:19.749Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-03T14:39:19.870Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-03T14:39:19.932Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-03T14:39:19.901Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-03T14:39:19.905Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-03T14:39:19.906Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-03T14:39:19.913Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-03T14:39:19.913Z"}
+{"level":"error","message":"V7.2-Balanced启动失败: Invalid or unexpected token","timestamp":"2026-04-03T14:39:19.919Z"}
+{"level":"info","message":"已降级到V6.0五层系统","timestamp":"2026-04-03T14:39:19.943Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-03T14:39:19.955Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-03T14:39:19.963Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-03T14:39:19.964Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-03T14:39:19.964Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-03T14:39:19.968Z"}
+{"level":"error","message":"V7.2-Balanced启动失败: Invalid or unexpected token","timestamp":"2026-04-03T14:39:19.970Z"}
+{"level":"info","message":"已降级到V6.0五层系统","timestamp":"2026-04-03T14:39:19.986Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:21.939Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:21.939Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:21.968Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:21.969Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:22.943Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:22.971Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:39:30.999Z","uptime":"11s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:39:30.999Z","uptime":"11s"}
+{"level":"warn","message":"Worker 1638943 退出，重启中...","timestamp":"2026-04-03T14:39:47.918Z"}
+{"level":"warn","message":"Worker 1638945 退出，重启中...","timestamp":"2026-04-03T14:39:47.941Z"}
+{"level":"warn","message":"Worker 1638974 退出，重启中...","timestamp":"2026-04-03T14:39:48.307Z"}
+{"level":"warn","message":"Worker 1638980 退出，重启中...","timestamp":"2026-04-03T14:39:48.333Z"}
+{"level":"warn","message":"Worker 1638998 退出，重启中...","timestamp":"2026-04-03T14:39:48.671Z"}
+{"level":"warn","message":"Worker 1639004 退出，重启中...","timestamp":"2026-04-03T14:39:48.689Z"}
+{"level":"warn","message":"Worker 1639022 退出，重启中...","timestamp":"2026-04-03T14:39:49.040Z"}
+{"level":"warn","message":"Worker 1639028 退出，重启中...","timestamp":"2026-04-03T14:39:49.086Z"}
+{"level":"warn","message":"Worker 1639049 退出，重启中...","timestamp":"2026-04-03T14:39:49.411Z"}
+{"level":"warn","message":"Worker 1639056 退出，重启中...","timestamp":"2026-04-03T14:39:49.429Z"}
+{"level":"warn","message":"Worker 1639073 退出，重启中...","timestamp":"2026-04-03T14:39:49.766Z"}
+{"level":"warn","message":"Worker 1639079 退出，重启中...","timestamp":"2026-04-03T14:39:49.788Z"}
+{"level":"warn","message":"Worker 1639097 退出，重启中...","timestamp":"2026-04-03T14:39:50.124Z"}
+{"level":"warn","message":"Worker 1639103 退出，重启中...","timestamp":"2026-04-03T14:39:50.171Z"}
+{"level":"warn","message":"Worker 1639122 退出，重启中...","timestamp":"2026-04-03T14:39:50.494Z"}
+{"level":"warn","message":"Worker 1639129 退出，重启中...","timestamp":"2026-04-03T14:39:50.527Z"}
+{"level":"warn","message":"Worker 1639146 退出，重启中...","timestamp":"2026-04-03T14:39:50.854Z"}
+{"level":"warn","message":"Worker 1639153 退出，重启中...","timestamp":"2026-04-03T14:39:50.931Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:51.074Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:39:51.078Z"}
+{"level":"warn","message":"Worker 1639183 退出，重启中...","timestamp":"2026-04-03T14:39:51.337Z"}
+{"level":"warn","message":"Worker 1639173 退出，重启中...","timestamp":"2026-04-03T14:39:51.342Z"}
+{"level":"warn","message":"Worker 1639210 退出，重启中...","timestamp":"2026-04-03T14:39:51.705Z"}
+{"level":"warn","message":"Worker 1639209 退出，重启中...","timestamp":"2026-04-03T14:39:51.709Z"}
+{"level":"warn","message":"Worker 1639233 退出，重启中...","timestamp":"2026-04-03T14:39:52.060Z"}
+{"level":"warn","message":"Worker 1639234 退出，重启中...","timestamp":"2026-04-03T14:39:52.064Z"}
+{"level":"warn","message":"Worker 1639257 退出，重启中...","timestamp":"2026-04-03T14:39:52.426Z"}
+{"level":"warn","message":"Worker 1639258 退出，重启中...","timestamp":"2026-04-03T14:39:52.428Z"}
+{"level":"warn","message":"Worker 1639281 退出，重启中...","timestamp":"2026-04-03T14:39:52.769Z"}
+{"level":"warn","message":"Worker 1639282 退出，重启中...","timestamp":"2026-04-03T14:39:52.798Z"}
+{"level":"warn","message":"Worker 1639305 退出，重启中...","timestamp":"2026-04-03T14:39:53.122Z"}
+{"level":"warn","message":"Worker 1639312 退出，重启中...","timestamp":"2026-04-03T14:39:53.153Z"}
+{"level":"warn","message":"Worker 1639329 退出，重启中...","timestamp":"2026-04-03T14:39:53.490Z"}
+{"level":"warn","message":"Worker 1639335 退出，重启中...","timestamp":"2026-04-03T14:39:53.507Z"}
+{"level":"warn","message":"Worker 1639353 退出，重启中...","timestamp":"2026-04-03T14:39:53.881Z"}
+{"level":"warn","message":"Worker 1639359 退出，重启中...","timestamp":"2026-04-03T14:39:53.890Z"}
+{"level":"warn","message":"Worker 1639389 退出，重启中...","timestamp":"2026-04-03T14:39:54.241Z"}
+{"level":"warn","message":"Worker 1639383 退出，重启中...","timestamp":"2026-04-03T14:39:54.256Z"}
+{"level":"warn","message":"Worker 1639407 退出，重启中...","timestamp":"2026-04-03T14:39:54.583Z"}
+{"level":"warn","message":"Worker 1639413 退出，重启中...","timestamp":"2026-04-03T14:39:54.604Z"}
+{"level":"warn","message":"Worker 1639431 退出，重启中...","timestamp":"2026-04-03T14:39:55.156Z"}
+{"level":"warn","message":"Worker 1639437 退出，重启中...","timestamp":"2026-04-03T14:39:55.177Z"}
+{"level":"warn","message":"Worker 1639477 退出，重启中...","timestamp":"2026-04-03T14:39:55.548Z"}
+{"level":"warn","message":"Worker 1639487 退出，重启中...","timestamp":"2026-04-03T14:39:55.554Z"}
+{"level":"warn","message":"Worker 1639505 退出，重启中...","timestamp":"2026-04-03T14:39:55.918Z"}
+{"level":"warn","message":"Worker 1639506 退出，重启中...","timestamp":"2026-04-03T14:39:55.921Z"}
+{"level":"warn","message":"Worker 1639534 退出，重启中...","timestamp":"2026-04-03T14:39:56.289Z"}
+{"level":"warn","message":"Worker 1639533 退出，重启中...","timestamp":"2026-04-03T14:39:56.294Z"}
+{"level":"warn","message":"Worker 1639557 退出，重启中...","timestamp":"2026-04-03T14:39:56.641Z"}
+{"level":"warn","message":"Worker 1639558 退出，重启中...","timestamp":"2026-04-03T14:39:56.646Z"}
+{"level":"warn","message":"Worker 1639582 退出，重启中...","timestamp":"2026-04-03T14:39:56.996Z"}
+{"level":"warn","message":"Worker 1639583 退出，重启中...","timestamp":"2026-04-03T14:39:57.029Z"}
+{"level":"warn","message":"Worker 1639608 退出，重启中...","timestamp":"2026-04-03T14:39:57.342Z"}
+{"level":"warn","message":"Worker 1639615 退出，重启中...","timestamp":"2026-04-03T14:39:57.392Z"}
+{"level":"warn","message":"Worker 1639632 退出，重启中...","timestamp":"2026-04-03T14:39:57.709Z"}
+{"level":"warn","message":"Worker 1639639 退出，重启中...","timestamp":"2026-04-03T14:39:57.734Z"}
+{"level":"warn","message":"Worker 1639656 退出，重启中...","timestamp":"2026-04-03T14:39:58.070Z"}
+{"level":"warn","message":"Worker 1639662 退出，重启中...","timestamp":"2026-04-03T14:39:58.128Z"}
+{"level":"warn","message":"Worker 1639687 退出，重启中...","timestamp":"2026-04-03T14:39:58.420Z"}
+{"level":"warn","message":"Worker 1639694 退出，重启中...","timestamp":"2026-04-03T14:39:58.502Z"}
+{"level":"warn","message":"Worker 1639711 退出，重启中...","timestamp":"2026-04-03T14:39:58.761Z"}
+{"level":"warn","message":"Worker 1639718 退出，重启中...","timestamp":"2026-04-03T14:39:58.904Z"}
+{"level":"warn","message":"Worker 1639735 退出，重启中...","timestamp":"2026-04-03T14:39:59.126Z"}
+{"level":"warn","message":"Worker 1639745 退出，重启中...","timestamp":"2026-04-03T14:39:59.256Z"}
+{"level":"warn","message":"Worker 1639761 退出，重启中...","timestamp":"2026-04-03T14:39:59.520Z"}
+{"level":"warn","message":"Worker 1639769 退出，重启中...","timestamp":"2026-04-03T14:39:59.654Z"}
+{"level":"warn","message":"Worker 1639785 退出，重启中...","timestamp":"2026-04-03T14:39:59.890Z"}
+{"level":"warn","message":"Worker 1639793 退出，重启中...","timestamp":"2026-04-03T14:40:00.025Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:40:00.123Z","uptime":"40s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-03T14:40:00.124Z","uptime":"40s"}
+{"level":"warn","message":"Worker 1639810 退出，重启中...","timestamp":"2026-04-03T14:40:00.242Z"}
+{"level":"warn","message":"Worker 1639818 退出，重启中...","timestamp":"2026-04-03T14:40:00.398Z"}
+{"level":"warn","message":"Worker 1639830 退出，重启中...","timestamp":"2026-04-03T14:40:00.593Z"}
+{"level":"warn","message":"Worker 1639842 退出，重启中...","timestamp":"2026-04-03T14:40:00.784Z"}
+{"level":"warn","message":"Worker 1639854 退出，重启中...","timestamp":"2026-04-03T14:40:00.987Z"}
+{"level":"warn","message":"Worker 1639866 退出，重启中...","timestamp":"2026-04-03T14:40:01.169Z"}
+{"level":"warn","message":"Worker 1639883 退出，重启中...","timestamp":"2026-04-03T14:40:01.341Z"}
+{"level":"warn","message":"Worker 1639895 退出，重启中...","timestamp":"2026-04-03T14:40:01.543Z"}
+{"level":"warn","message":"Worker 1639907 退出，重启中...","timestamp":"2026-04-03T14:40:01.755Z"}
+{"level":"warn","message":"Worker 1639919 退出，重启中...","timestamp":"2026-04-03T14:40:01.928Z"}
+{"level":"warn","message":"Worker 1639945 退出，重启中...","timestamp":"2026-04-03T14:40:02.119Z"}
+{"level":"warn","message":"Worker 1639957 退出，重启中...","timestamp":"2026-04-03T14:40:02.299Z"}
+{"level":"warn","message":"Worker 1639969 退出，重启中...","timestamp":"2026-04-03T14:40:02.476Z"}
+{"level":"warn","message":"Worker 1639981 退出，重启中...","timestamp":"2026-04-03T14:40:02.681Z"}
+{"level":"warn","message":"Worker 1639993 退出，重启中...","timestamp":"2026-04-03T14:40:02.863Z"}
+{"level":"warn","message":"Worker 1640007 退出，重启中...","timestamp":"2026-04-03T14:40:03.069Z"}
+{"level":"warn","message":"Worker 1640019 退出，重启中...","timestamp":"2026-04-03T14:40:03.240Z"}
+{"level":"warn","message":"Worker 1640031 退出，重启中...","timestamp":"2026-04-03T14:40:03.421Z"}
+{"level":"warn","message":"Worker 1640043 退出，重启中...","timestamp":"2026-04-03T14:40:03.610Z"}
+{"level":"warn","message":"Worker 1640055 退出，重启中...","timestamp":"2026-04-03T14:40:03.787Z"}
+{"level":"warn","message":"Worker 1640067 退出，重启中...","timestamp":"2026-04-03T14:40:04.012Z"}
+{"level":"warn","message":"Worker 1640079 退出，重启中...","timestamp":"2026-04-03T14:40:04.161Z"}
+{"level":"warn","message":"Worker 1640101 退出，重启中...","timestamp":"2026-04-03T14:40:04.340Z"}
+{"level":"warn","message":"Worker 1640109 退出，重启中...","timestamp":"2026-04-03T14:40:04.535Z"}
+{"level":"warn","message":"Worker 1640121 退出，重启中...","timestamp":"2026-04-03T14:40:04.723Z"}
+{"level":"warn","message":"Worker 1640133 退出，重启中...","timestamp":"2026-04-03T14:40:04.901Z"}
+{"level":"warn","message":"Worker 1640145 退出，重启中...","timestamp":"2026-04-03T14:40:05.119Z"}
+{"level":"warn","message":"Worker 1640164 退出，重启中...","timestamp":"2026-04-03T14:40:05.294Z"}
+{"level":"warn","message":"Worker 1640176 退出，重启中...","timestamp":"2026-04-03T14:40:05.468Z"}
+{"level":"warn","message":"Worker 1640188 退出，重启中...","timestamp":"2026-04-03T14:40:05.662Z"}
+{"level":"warn","message":"Worker 1640200 退出，重启中...","timestamp":"2026-04-03T14:40:05.914Z"}
+{"level":"warn","message":"Worker 1640219 退出，重启中...","timestamp":"2026-04-03T14:40:06.276Z"}
+{"level":"warn","message":"Worker 1640247 退出，重启中...","timestamp":"2026-04-03T14:40:06.405Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.216Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.216Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.217Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.217Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.217Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.217Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.217Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-03T14:40:21.217Z"}

@@ -1,0 +1,39 @@
+{
+  "instincts": [
+    {
+      "name": "quick-fix",
+      "description": "快速修复代码错误",
+      "prompt": "你是一个专家调试助手。分析以下错误并提供简洁的修复方案：\n\n{error}\n\n代码上下文：\n{code}",
+      "context": ["error", "traceback", "code"],
+      "timeout_seconds": 30
+    },
+    {
+      "name": "security-scan",
+      "description": "安全检查审计",
+      "prompt": "对以下代码进行安全审计，检查SQL注入、XSS、CSRF、缓冲区溢出等漏洞：\n\n{code}",
+      "context": ["code", "vulnerability"],
+      "timeout_seconds": 60
+    },
+    {
+      "name": "memory-summarize",
+      "description": "会话记忆摘要",
+      "prompt": "总结以下对话的核心要点和决策：\n\n{conversation}",
+      "context": ["conversation", "history"],
+      "timeout_seconds": 45
+    },
+    {
+      "name": "cost-optimizer",
+      "description": "Token使用优化",
+      "prompt": "优化以下提示词，在保持效果的同时减少token使用：\n\n{prompt}",
+      "context": ["prompt", "token_count"],
+      "timeout_seconds": 30
+    },
+    {
+      "name": "parallel-split",
+      "description": "任务分解并行化",
+      "prompt": "将以下任务分解为可并行执行的子任务：\n\n{task}",
+      "context": ["task", "complexity"],
+      "timeout_seconds": 30
+    }
+  ]
+}

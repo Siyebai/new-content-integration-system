@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "id": "no-system-override",
+      "description": "禁止覆盖系统提示",
+      "pattern": "ignore previous instructions|forget your instructions|act as if you are",
+      "action": "block",
+      "severity": "critical"
+    },
+    {
+      "id": "no-harmful-content",
+      "description": "禁止生成有害内容",
+      "pattern": "malware|virus|exploit|hack|attack",
+      "action": "flag_for_human_review",
+      "severity": "high"
+    },
+    {
+      "id": "token-limit-enforcement",
+      "description": "强制token限制",
+      "pattern": "unlimited tokens|no token limit",
+      "action": "truncate",
+      "max_tokens": 4000,
+      "severity": "medium"
+    }
+  ]
+}

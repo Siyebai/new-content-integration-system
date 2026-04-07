@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "id": "result-verification",
+      "description": "结果验证检查点",
+      "pattern": "final result|output|completed",
+      "action": "verify",
+      "methods": ["unit_test", "peer_review", "self_eval"]
+    },
+    {
+      "id": "confidence-scoring",
+      "description": "置信度评分",
+      "pattern": "I am confident|likely|probably|maybe",
+      "action": "assign_confidence",
+      "threshold_high": 0.8,
+      "threshold_low": 0.5
+    }
+  ]
+}

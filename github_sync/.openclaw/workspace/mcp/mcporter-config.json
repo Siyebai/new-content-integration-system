@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "everything-claude-memory": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["ecc-memory-server"],
+      "env": {
+        "ECC_MODE": "openclaw"
+      }
+    },
+    "everything-claude-evals": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["ecc-eval-server"]
+    }
+  }
+}

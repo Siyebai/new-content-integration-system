@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "id": "memory-consistency",
+      "description": "确保记忆一致性",
+      "pattern": "conflict with previous|contradicts earlier",
+      "action": "cross_check",
+      "max_retries": 3
+    },
+    {
+      "id": "agent-coordination",
+      "description": "多Agent协调，避免重复工作",
+      "pattern": "already handled by|another agent is",
+      "action": "defer_to_coordinator"
+    },
+    {
+      "id": "parallel-execution",
+      "description": "识别可并行任务",
+      "pattern": "independent tasks|can run in parallel|concurrent",
+      "action": "spawn_parallel",
+      "max_concurrent": 3
+    }
+  ]
+}
