@@ -1,0 +1,26 @@
+{
+  "upwork": {
+    "title": "I will deploy and customize your own AI Town virtual world",
+    "category": "Programming & Tech > Other Programming & Tech",
+    "description": "Build a fully functional AI-powered virtual world where autonomous AI characters live, chat, and socialize. Zero API costs using local LLMs.",
+    "price": 499,
+    "delivery_time": "24-48 hours",
+    "features": [
+      "Complete Docker deployment on your server",
+      "Ollama configuration (FREE, no API costs)",
+      "10 pre-configured AI characters with unique personalities",
+      "Full documentation + video tutorial",
+      "3 hours of support via Discord/Zoom"
+    ]
+  },
+  "fiverr": {
+    "title": "I will deploy your AI Town virtual world with AI characters",
+    "category": "Programming & Tech > Other Programming & Tech",
+    "description": "Get your own AI-powered virtual world in 24 hours! Zero cost - uses local LLM (no API fees). 10 pre-configured characters, Docker deployment, full support.",
+    "packages": {
+      "basic": {"price": 499, "features": ["10 characters", "basic setup"]},
+      "standard": {"price": 999, "features": ["30 characters", "custom map"]},
+      "premium": {"price": 2999, "features": ["100 characters", "full customization"]}
+    }
+  }
+}
